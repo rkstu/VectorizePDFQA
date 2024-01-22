@@ -1,4 +1,5 @@
 # Language Model Application with Fast and Fresh Vector Search
+Explore it live at : https://vectorizedpdf.streamlit.app/
 
 ## Overview
 
