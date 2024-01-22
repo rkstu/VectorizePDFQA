@@ -32,9 +32,8 @@ def user_input(user_question):
     # print("Embeddings: ", embeddings)
 
     ## Vector search DB in  Pinecone
-    pinecone.init(
-      api_key=PINECONE_API_KEY,
-      environment=PINECONE_ENVIRONMENT
+    pinecone.Pinecone(
+      api_key=PINECONE_API_KEY
     )
     index_name=PINECONE_INDEX_NAME
     time.sleep(2)
