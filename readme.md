@@ -1,5 +1,7 @@
 # Language Model Application with Fast and Fresh Vector Search
-Explore it live at : https://vectorizedpdf.streamlit.app/
+Explore it live at: https://vectorizedpdf.streamlit.app/
+![image](https://github.com/rkstu/VectorizePDFQA/assets/93584728/65859a31-2472-4ff0-9566-ed12e345d293)
+
 
 ## Overview
 
