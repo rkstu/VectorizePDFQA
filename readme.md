@@ -1,6 +1,13 @@
 # Language Model Application with Fast and Fresh Vector Search
 Explore it live at: https://vectorizedpdf.streamlit.app/
+
+Won **Best Use of AI in Education** prize in **MLH's Month Long Hackathon** Devpost link - https://devpost.com/software/vectorizepdfqa
+
+Video walkthrough - https://www.youtube.com/watch?v=wbDxl9Dk-SA
+
+**Demo**
 ![image](https://github.com/rkstu/VectorizePDFQA/assets/93584728/65859a31-2472-4ff0-9566-ed12e345d293)
+
 
 
 ## Overview
